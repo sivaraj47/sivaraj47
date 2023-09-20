@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sivasundarraj | Web Design and Developer |
+### Hi there 👋 I'm Sivasundarraj | Web Developer |
 
 
 **sivaraj47/sivaraj47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
