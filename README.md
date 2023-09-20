@@ -1,7 +1,5 @@
-### Hi there 👋 I'm Sivasundarraj | Web Developer |
+### Hi there 👋 I'm Sivasundarraj | Web Developer | Profile View <a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=6dwl73ur1y4nku15grnr2sdzjysnara2" border="0" title="web counter" alt="web counter"></a>
 
-
-**sivaraj47/sivaraj47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on AngularJs
 - 🌱 I’m currently learning ...
