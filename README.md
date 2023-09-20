@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Sivasundarraj | Web Developer | 
+### Hi There 👋 I'm Sivasundarraj | Web Developer | 
 
 - 🔭 I’m currently working on AngularJs
 - 🌱 I’m currently learning ReactJs  
-- 🤔 I’m always working for projects in #HTML, #CSS, #Javascript, 
+- 🤔 I’m always working for projects in #HTML , #CSS, #Javascript, 
 - 👍 I'm always interesting in design like Figma, Adobe Xd, Photoshop, Coreldraw
 - 📫 How to reach me: <a href="https://www.instagram.com/codingwithssr">Instargram</a>
 - 😄 Pronouns: 🧑
