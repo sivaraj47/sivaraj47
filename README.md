@@ -1,4 +1,4 @@
-### Hi There 👋 I'm Sivasundarraj | Web Developer | 
+### Hi There 👋 I'm Sivasundararaj | Web Developer | 
 
 - 🔭 I’m currently working on AngularJs
 - 🌱 I’m currently learning ReactJs  
