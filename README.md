@@ -6,5 +6,5 @@
 - 👍 I'm always interesting in design like Figma, Adobe Xd, Photoshop, Coreldraw
 - 📫 How to reach me: <a href="https://www.instagram.com/codingwithssr">Instargram</a> | <a href="https://codepen.io/codingwithssr/">Codepen</a>
 - 😄 Pronouns: 🧑
-- ⚡ Fun fact: Try to enter a shortcode but it exceeds more lines ✍😎
+- ⚡ Fun fact: Try to enter a shortcode but it exceeds more lines. It happen some times✍😎
 
