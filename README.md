@@ -14,7 +14,7 @@ I'm a passionate **Web Developer** specializing in **UI/UX** and **Frontend Deve
 
 ## 🌟 Favorite Projects
 
-- 🌟  [Recipe-Tips]([https://github.com/sivaraj47/silpaautomech-perambalur](https://sivaraj47.github.io/Recipe-Tips-in-Angularjs/))  
+- 🌟  [Recipe-Tips](https://sivaraj47.github.io/Recipe-Tips-in-Angularjs/)  
   *Responsive website for an automobile service center*
 
 - 💼 [Webdeveloper-Sivasundararaj](https://github.com/sivaraj47/Webdeveloper-Sivasundararaj)  
