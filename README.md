@@ -14,20 +14,17 @@ I'm a passionate **Web Developer** specializing in **UI/UX** and **Frontend Deve
 
 ## 🌟 Favorite Projects
 
+- 💼 [Webdeveloper-Sivasundararaj](https://codingwithssr.vercel.app/)  
+  *Portfolio showcasing my work*
+
 - 🌟  [Recipe-Tips](https://sivaraj47.github.io/Recipe-Tips-in-Angularjs/)  
   *Responsive website for an automobile service center*
 
-- 💼 [Webdeveloper-Sivasundararaj](https://github.com/sivaraj47/Webdeveloper-Sivasundararaj)  
-  *Portfolio showcasing my work*
-
 - 📱 [Modern-Unique-Portfolio-Design](https://sivaraj47.github.io/Modern-Unique-Portfolio-Design/)  
-  *Responsive navigation menu built with TailwindCSS*
+  *Responsive Modern unique portfolio design*
 
 - 🧳 [Travel-Info-Card-Design](https://github.com/sivaraj47/Travel-Info-Card-Design)  
   *Visually appealing travel info card*
-
-- 🖼️ [Text-Overlay-Image](https://github.com/sivaraj47/Text-Overlay-Image-)  
-  *Text overlay techniques on images*
 
 ---
 
