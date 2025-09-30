@@ -1,5 +1,3 @@
-### Hi There 👋 I'm Sivasundararaj | Web Developer | UIUX | Frontend Devloper |
-
 # 👋 Hi there! I'm Sivaraj
 
 I'm a passionate **Web Developer** specializing in **UI/UX** and **Frontend Development**. I love creating beautiful and functional web applications that deliver great user experiences.
