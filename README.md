@@ -14,13 +14,13 @@ I'm a passionate **Web Developer** specializing in **UI/UX** and **Frontend Deve
 
 ## 🌟 Favorite Projects
 
-- 🚗 [silpaautomech-perambalur](https://github.com/sivaraj47/silpaautomech-perambalur)  
+- 🌟  [Recipe-Tips]([https://github.com/sivaraj47/silpaautomech-perambalur](https://sivaraj47.github.io/Recipe-Tips-in-Angularjs/))  
   *Responsive website for an automobile service center*
 
 - 💼 [Webdeveloper-Sivasundararaj](https://github.com/sivaraj47/Webdeveloper-Sivasundararaj)  
   *Portfolio showcasing my work*
 
-- 📱 [TailwindCSS-Responsive-Menu](https://github.com/sivaraj47/TailwindCSS-Responsive-Menu)  
+- 📱 [Modern-Unique-Portfolio-Design](https://sivaraj47.github.io/Modern-Unique-Portfolio-Design/)  
   *Responsive navigation menu built with TailwindCSS*
 
 - 🧳 [Travel-Info-Card-Design](https://github.com/sivaraj47/Travel-Info-Card-Design)  
